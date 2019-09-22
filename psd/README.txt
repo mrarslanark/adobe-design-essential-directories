@@ -1,0 +1,1 @@
+Save all Adobe Photoshop CC files within this directory.

@@ -1,0 +1,1 @@
+Save all JPEGs within this directory.

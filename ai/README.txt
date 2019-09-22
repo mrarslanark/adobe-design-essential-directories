@@ -1,0 +1,1 @@
+Save all Adobe Illustrator CC files within this directory.
